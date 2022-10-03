@@ -16,14 +16,14 @@ News: http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/news
 
 All Teams: http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/teams
 
-Hockey
+## Hockey
 Scores: http://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard
 
 News: http://site.api.espn.com/apis/site/v2/sports/hockey/nhl/news
 
 All Teams: http://site.api.espn.com/apis/site/v2/sports/hockey/nhl/teams
 
-NBA
+## NBA
 Scores: http://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard
 
 News: http://site.api.espn.com/apis/site/v2/sports/basketball/nba/news
