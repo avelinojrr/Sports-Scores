@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SportsScores</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_fragment">Hello fragment</string>
+    <string name="teams_fragment">Teams fragment</string>
+    <string name="news_fragment">News fragment</string>
+</resources>
