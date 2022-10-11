@@ -1,4 +1,4 @@
-package com.example.sportsscores.views
+package com.example.sportsscores.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -16,5 +16,4 @@ class NewsFragment : Fragment() {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_news, container, false)
     }
-
 }

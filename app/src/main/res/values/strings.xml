@@ -4,4 +4,17 @@
     <string name="hello_fragment">Hello fragment</string>
     <string name="teams_fragment">Teams fragment</string>
     <string name="news_fragment">News fragment</string>
+    <string name="nfl">NFL</string>
+    <string name="mlb">MLB</string>
+    <string name="nba">NBA</string>
+    <string name="nhl">NHL</string>
+
+    <string name="home">Home</string>
+    <string name="teams">Teams</string>
+    <string name="news">News</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
